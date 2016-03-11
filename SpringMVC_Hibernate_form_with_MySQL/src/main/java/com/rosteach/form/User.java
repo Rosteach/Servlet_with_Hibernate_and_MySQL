@@ -1,4 +1,4 @@
-package net.roseindia.form; 
+package com.rosteach.form; 
 public class User {
 	   private String userName;
 	   private String email;	   

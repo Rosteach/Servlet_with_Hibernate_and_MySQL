@@ -1,4 +1,4 @@
-package net.roseindia.form;
+package com.rosteach.form;
 
 import org.springframework.web.multipart.commons.CommonsMultipartFile;
 

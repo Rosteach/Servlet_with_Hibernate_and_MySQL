@@ -1,4 +1,4 @@
-package net.roseindia.form;
+package com.rosteach.form;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;

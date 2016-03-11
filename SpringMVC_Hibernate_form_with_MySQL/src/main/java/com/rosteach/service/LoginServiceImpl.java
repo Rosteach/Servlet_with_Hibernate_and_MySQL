@@ -1,4 +1,4 @@
-package net.roseindia.service;
+package com.rosteach.service;
 /*
 @Author: Deepak Kumar
 Check more tutorials at http://www.roseindia.net
@@ -6,7 +6,7 @@ Check more tutorials at http://www.roseindia.net
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import net.roseindia.dao.*;
+import com.rosteach.dao.*;
 
 
 @Service("loginService")

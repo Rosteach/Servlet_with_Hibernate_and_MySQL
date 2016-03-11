@@ -1,4 +1,4 @@
-package net.roseindia.controllers;
+package com.rosteach.controllers;
 
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.stereotype.Controller;

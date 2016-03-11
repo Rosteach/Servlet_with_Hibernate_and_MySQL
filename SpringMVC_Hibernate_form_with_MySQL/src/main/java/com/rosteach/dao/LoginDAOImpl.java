@@ -1,12 +1,8 @@
-package net.roseindia.dao;
-/*
-@Author: Deepak Kumar
-Check more tutorials at http://www.roseindia.net
-*/
-import net.roseindia.model.*;
-
+package com.rosteach.dao;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
+
+import com.rosteach.model.*;
 
 import javax.annotation.Resource;
 

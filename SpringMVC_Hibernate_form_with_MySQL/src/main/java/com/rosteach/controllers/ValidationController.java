@@ -1,12 +1,13 @@
-package net.roseindia.controllers;
+package com.rosteach.controllers;
 
-import net.roseindia.form.ValidationForm;
 import java.util.Map;
 import javax.validation.Valid;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+
+import com.rosteach.form.ValidationForm;
 
 @Controller
 @RequestMapping("/validationform.html")

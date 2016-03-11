@@ -1,4 +1,4 @@
-package net.roseindia.model;
+package com.rosteach.model;
 /*
 @Author: Deepak Kumar
 Check more tutorials at http://www.roseindia.net

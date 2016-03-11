@@ -1,9 +1,10 @@
-package net.roseindia.controllers;
+package com.rosteach.controllers;
 
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
 import org.springframework.validation.ValidationUtils;
-import net.roseindia.form.Registration;
+
+import com.rosteach.form.Registration;
 
 @Component("registrationValidator")
 public class RegistrationValidation {

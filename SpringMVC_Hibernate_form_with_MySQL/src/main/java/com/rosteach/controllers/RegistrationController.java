@@ -1,4 +1,4 @@
-package net.roseindia.controllers;
+package com.rosteach.controllers;
 
 import java.util.Map;
 import javax.validation.Valid;
@@ -8,7 +8,7 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import net.roseindia.form.Registration;
+import com.rosteach.form.Registration;
 
 @Controller
 @RequestMapping("/registrationform.html")

@@ -1,10 +1,11 @@
-package net.roseindia.controllers;
-import net.roseindia.form.User;
+package com.rosteach.controllers;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+
+import com.rosteach.form.User;
 
 @Controller
 public class SimpleFormController {
